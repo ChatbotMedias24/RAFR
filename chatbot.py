@@ -91,6 +91,7 @@ questions = [
         "Donnez-moi un résumé du rapport ",
         "Quels sont les principaux défis économiques que le monde a dû affronter en 2022 ?",
         "Comment le Conseil de la concurrence a-t-il travaillé pour promouvoir la concurrence équitable ?",
+        "Quelles sont les prévisions de croissance économique pour l'année 2023 selon le Fonds Monétaire International ?",
         "Quelles sont les mesures proposées pour lutter contre la pénurie de ressources humaines médicales au Maroc ?"
     ]    
  
